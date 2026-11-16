@@ -1,3 +1,0 @@
-*.html linguist-detectable=false
-*.html linguist-documentation=true
-**/03_Python_Analysis_part/data_quality_report/** linguist-vendored=true
